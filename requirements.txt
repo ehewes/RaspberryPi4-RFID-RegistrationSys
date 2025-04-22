@@ -1,0 +1,2 @@
+RPi.GPIO==0.7.0
+SimpleMFRC522==1.0.0
